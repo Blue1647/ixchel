@@ -1,0 +1,39 @@
+
+/* Put in your css here */
+p{
+  color:purple;
+}
+h1{
+  color:aqua ;
+  font-family:georgia;
+  font-size:55px;
+}
+h2{
+  color:aqua;
+}
+body{
+  background:black;
+  font-family:times new roman;
+}
+li{
+  display:inline;
+  padding:10px 10px 10px 10px;
+}
+ul{
+  background:rgba(0,0,0,.4);
+}
+header{
+  text-align:center;
+  background:url("http://25.media.tumblr.com/tumblr_m5sg8rD1Of1ryhyb2o1_500.jpg");
+  background-size:cover;
+  color:li;
+}
+a{ color:beige;
+}
+a:hover{
+  color:green;
+  background:lavender;
+}
+body{
+  text-align:center;
+}
